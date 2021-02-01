@@ -1,0 +1,6 @@
+twint
+pandas
+nltk
+numpy
+re
+matplotlib

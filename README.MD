@@ -1,3 +1,4 @@
+
 # Crisis politica en el Peru : Analisis de sentimientos en Twitter
 
 Resumen : 
@@ -9,24 +10,25 @@ En el presente proyecto se tendr√° a Twitter como principal fuente de informaci√
 
 ## Indice
 - Data de entrenamiento
-- Tweets peruanos
+- Tweets peruanos 
 - Procesando tweets
- * Hashtags
- * Usernames
- * Repeticiones
- * Puntuacion
- * Url's
- * Stemming
+	- Hashtags
+	- Usernames
+	- Repeticiones
+	- Puntuacion
+	- URL's
+	- Stemming
 - Procesamiento de tweets
 - Funciones
- * Emoticones
- * Negacion
- * Polaridad
+	- Emoticones
+	- Negacion
+	- Polaridad
 - Aplicando los features
 - Clasificacion
- * Preparacion de la data
- * Naive Bayes
- * Resultados
+	- Preparacion de la data
+	- Naive Bayes 
+	- Resultados
+
 
 ## Requerimientos
 - Python 3.6;
